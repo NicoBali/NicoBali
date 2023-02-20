@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Nicolás Palacio
 #### I am Frontend Developer
-![I am Frontend Developer](https://github.com/NicoBali)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
