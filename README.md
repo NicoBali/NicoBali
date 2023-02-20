@@ -1,4 +1,4 @@
-### Hello there, my name is Nicolás Palacio 👋
+### Hello there! my name is Nicolás Palacio 👋
 
 <!--
 **NicoBali/NicoBali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
